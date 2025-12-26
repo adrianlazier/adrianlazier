@@ -23,13 +23,6 @@ Currently, I’m strengthening my skills in **backend development, automation, a
 - Clean Code & SOLID Principles  
 
 
-
-## 📊 GitHub Stats
-![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
-
----
-
 ## 👨‍💻 About Me
 - 🎓 Software Engineering student  
 - 🧠 Strong interest in backend and systems development  
