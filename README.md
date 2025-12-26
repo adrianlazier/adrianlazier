@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello! I'm Adrian 👋
 
-<!--
-**adrianlazier/adrianlazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** passionate about building clean, scalable, and well-structured software solutions.  
+I enjoy turning ideas into practical applications, focusing on code quality, performance, and maintainability.
 
-Here are some ideas to get you started:
+Currently, I’m strengthening my skills in **backend development, automation, and database-driven systems**, always applying best practices and real-world engineering concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
+
+### Tools & Concepts
+- Git & GitHub  
+- REST APIs  
+- Relational Databases  
+- Software Architecture  
+- Clean Code & SOLID Principles  
+
+
+
+## 📊 GitHub Stats
+![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Software Engineering student  
+- 🧠 Strong interest in backend and systems development  
+- 🛠️ Experience with Python, JavaScript, Node.js, and SQL  
+- 📚 Constantly learning new technologies and improving existing skills  
+- 🎯 Focused on building real-world, maintainable solutions  
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/adrianlazier
+- 📧 Email: adrianlazier@gmail.com
+
+
