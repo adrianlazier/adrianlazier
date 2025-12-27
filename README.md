@@ -1,4 +1,4 @@
-# Hello! I'm Adrian 👋
+# Adrian Lazier
 
 I'm a **Software Engineering student** passionate about building clean, scalable, and well-structured software solutions.  
 I enjoy turning ideas into practical applications, focusing on code quality, performance, and maintainability.
@@ -23,7 +23,7 @@ Currently, I’m strengthening my skills in **backend development, automation, a
 - Clean Code & SOLID Principles  
 
 
-## 👨‍💻 About Me
+##  About Me
 - 🎓 Software Engineering student  
 - 🧠 Strong interest in backend and systems development  
 - 🛠️ Experience with Python, JavaScript, Node.js, and SQL  
